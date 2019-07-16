@@ -7,9 +7,10 @@ ML 관련 network별 정리된 코드 모아놓은 repo.
 
 ## Index
 #### 0. reference 
-- [MNIST](https://github.com/DevHyung/ML_repo/blob/master/ref/%5B190401%5D%20MNIST.pdf) - Introduce the dataset
-- [Google Colab](https://github.com/DevHyung/ML_repo/blob/master/ref/%5B190408%5D%20Google%20colab.pdf) - Introduce the how to use
-- [PyTorch](https://github.com/DevHyung/ML_repo/blob/master/ref/%5B190408%5D%20PyTorch.pdf) - Introduce the how to use
+- [모두를 위한 머신러닝/딥러닝 강의 - 김성훈교수님](https://hunkim.github.io/ml/) 
+- [MNIST dataset소개 - 박형준](https://github.com/DevHyung/ML_repo/blob/master/ref/%5B190401%5D%20MNIST.pdf) - Introduce the dataset
+- [Google Colab소개 - 박형준](https://github.com/DevHyung/ML_repo/blob/master/ref/%5B190408%5D%20Google%20colab.pdf) - Introduce the how to use
+- [PyTorch framework 개요 - 박형준](https://github.com/DevHyung/ML_repo/blob/master/ref/%5B190408%5D%20PyTorch.pdf) - Introduce the how to use
   - exist the torch example code in the folder 
   
 #### 1. CNN(Convolutional Neural Network)
@@ -27,6 +28,11 @@ ML 관련 network별 정리된 코드 모아놓은 repo.
   - Paper - [Attention-Based Bidirectional Long Short-Term Memory Networks for Relation Classification](https://www.aclweb.org/anthology/P16-2034)
   - Colab - [Bi_LSTM_Tensor.ipynb](https://colab.research.google.com/drive/18HrxF3JDlerlyaDR9NMbYI52ZnNRIENr), [Bi_LSTM_Torch.ipynb](https://colab.research.google.com/drive/1IhCC-mFitDRIQ3ghS8wxVxzpQfG4hfnq)
 
+#### 3. Example MNIST
+- 3-1. [Basic MNIST](http://solarisailab.com/archives/303)
+  - Colab - [MNIST-Tensor.ipynb](https://colab.research.google.com/drive/1wju9m13NEjRgh0pgx65vhCa9mPUN56lg)
+- 3-2. [CNN MNIST](https://coderkoo.tistory.com/13)
+  - Colab - [MNIST-CNN-Tensor.ipynb](https://coderkoo.tistory.com/13)
 ## Env
 
 - Python 3.x
